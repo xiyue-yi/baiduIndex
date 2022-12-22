@@ -1,0 +1,3 @@
+# baiduIndex
+使用前需要在config中填入有效CIPHERTEXT字段内容
+首次使用需要手动登录一次保存有效COOKIES
